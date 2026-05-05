@@ -1,4 +1,4 @@
-# PowershellBlock
+# Block Powershell for Non-Admin Users
 
 **What this script does:
   - Still allows Powershell to run and allows the execution of Powershell-based Intune scripts and remediations.
